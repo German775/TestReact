@@ -60,7 +60,7 @@ namespace React
 
                 if (env.IsDevelopment())
                 {
-                    spa.UseReactDevelopmentServer(npmScript: "startUPDATE");
+                    spa.UseReactDevelopmentServer(npmScript: "startUPDATE2");
                 }
             });
         }
